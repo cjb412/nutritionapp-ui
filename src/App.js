@@ -5,6 +5,9 @@ function App() {
         <p>
           Front Page example.
         </p>
+        <p>
+          A second element to verify front-end deployment pipeline.
+        </p>
       </header>
     </div>
   );
