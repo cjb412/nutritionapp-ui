@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nutritionapp-ui/static/js/main.06824aa0.js",
+    "main.js": "/nutritionapp-ui/static/js/main.e4f42c5f.js",
     "index.html": "/nutritionapp-ui/index.html",
-    "main.06824aa0.js.map": "/nutritionapp-ui/static/js/main.06824aa0.js.map"
+    "main.e4f42c5f.js.map": "/nutritionapp-ui/static/js/main.e4f42c5f.js.map"
   },
   "entrypoints": [
-    "static/js/main.06824aa0.js"
+    "static/js/main.e4f42c5f.js"
   ]
 }
