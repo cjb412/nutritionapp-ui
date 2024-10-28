@@ -8,6 +8,9 @@ function App() {
         <p>
           A second element to verify front-end deployment pipeline.
         </p>
+        <p>
+          A third element to verify tests run on PR.
+        </p>
       </header>
     </div>
   );
